@@ -1,0 +1,6 @@
+sentence-transformers
+datasets
+faiss-cpu
+gradio
+huggingface_hub
+numpy
